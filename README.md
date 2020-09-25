@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/PlayazDA/WEB1066-probot-hello.svg?branch=master_docker)](https://travis-ci.com/PlayazDA/WEB1066-probot-hello)
+
 # probot-hello
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
