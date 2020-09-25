@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/PlayazDA/WEB1066-probot-hello.svg?branch=master_docker)](https://travis-ci.com/PlayazDA/WEB1066-probot-hello)
+[![Build Status](https://travis-ci.org/slinshady89/WEB1066-probot-hello.svg?branch=master_docker)](https://travis-ci.org/slinshady89/WEB1066-probot-hello)
 
 # probot-hello
 
