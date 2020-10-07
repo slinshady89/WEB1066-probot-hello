@@ -10,7 +10,7 @@ module.exports = app => {
     const issueComment = context.issue({ body: 'Thanks for opening this issue! Trump is a racist.' })
     return context.github.issues.createComment(issueComment)
   })
-  // just for some commit 
+
   // For more information on building apps:
   // https://probot.github.io/docs/
 
